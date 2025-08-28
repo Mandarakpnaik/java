@@ -1,0 +1,6 @@
+class Actor
+{
+public Actor()
+{
+}
+}
