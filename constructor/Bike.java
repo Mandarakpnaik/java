@@ -1,7 +1,10 @@
 class Bike
 {
-	 Bike()
+public Bike(int cost)
 {
-	System.out.println("This is bike");
+	int price = cost;
+	System.out.println("The bike cost is " +cost);
 } 
+
+
 }
