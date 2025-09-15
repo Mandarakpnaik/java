@@ -1,0 +1,1 @@
+class Company{	public void companyDetalies(EmployeeDetailes [] employee)	{		System.out.println(employee.length);				for(int number =0;number<employee.length;number++)		{			EmployeeDetailes name = employee[number];			name.employeeDetailes();		}	}}
