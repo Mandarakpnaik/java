@@ -1,0 +1,4 @@
+class Chemistry extends Science
+{
+	
+}

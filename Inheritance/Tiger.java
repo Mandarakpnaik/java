@@ -1,0 +1,4 @@
+class Tiger extends WildAnimal
+{
+	
+}

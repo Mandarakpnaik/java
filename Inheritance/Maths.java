@@ -1,0 +1,4 @@
+class Maths extends Subject
+{
+	
+}
