@@ -1,0 +1,12 @@
+class MetalRunner
+{
+	public static void main(String [] args)
+	{
+		Metal metalOne=new Iron();
+		Metal metalTwo=new Copper();
+		
+		metalOne.displayMetal();
+		metalTwo.displayMetal();
+		
+	}
+}
